@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6626-44E7
+
+ Directory of C:\Users\karmit.lalani.INFOSTRETCH\Desktop\git testing
+
+03-04-2019  19:01    <DIR>          .
+03-04-2019  19:01    <DIR>          ..
+03-04-2019  19:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  202,880,335,872 bytes free
